@@ -1,0 +1,187 @@
+Hands are dealt
+Joe has :  5s Jc 5d 3s 7h Qd Js
+Jane has :  Ad 2s 2c As 10s 8s 6d
+Joe books the 5
+Joe books the J
+Jane books the A
+Jane books the 2
+Turns begin now
+
+Joe says- Jane do you have a 7?
+Jane says- Go Fish
+Joe books the 3
+
+Jane says- Joe do you have a 8?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 7?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 10?
+Joe says- Go Fish
+Jane books the 8
+
+Joe says- Jane do you have a Q?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 6?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 7?
+Jane says- Go Fish
+Joe books the 7
+
+Jane says- Joe do you have a 10?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 9?
+Jane says- Yes, I have a 9
+Joe books the 9
+
+Joe says- Jane do you have a Q?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 10?
+Joe says- Go Fish
+
+Joe says- Jane do you have a K?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 10?
+Joe says- Go Fish
+
+Joe says- Jane do you have a Q?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 9?
+Joe says- Go Fish
+
+Joe says- Jane do you have a Q?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 7?
+Joe says- Yes, I have a 7
+Jane books the 7
+
+Jane says- Joe do you have a 3?
+Joe says- Go Fish
+
+Joe says- Jane do you have a Q?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 9?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 10?
+Jane says- Yes, I have a 10
+Joe books the 10
+
+Joe says- Jane do you have a Q?
+Jane says- Yes, I have a Q
+Joe books the Q
+
+Joe says- Jane do you have a K?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 4?
+Joe says- Yes, I have a 4
+Jane books the 4
+
+Jane says- Joe do you have a 6?
+Joe says- Go Fish
+Jane books the 6
+
+Joe says- Jane do you have a K?
+Jane says- Go Fish
+
+Jane says- Joe do you have a J?
+Joe says- Go Fish
+
+Joe says- Jane do you have a K?
+Jane says- Go Fish
+
+Jane says- Joe do you have a J?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 10?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 6?
+Joe says- Go Fish
+
+Joe says- Jane do you have a Q?
+Jane says- Go Fish
+Joe books the 8
+
+Jane says- Joe do you have a 2?
+Joe says- Yes, I have a 2
+Jane books the 2
+
+Jane says- Joe do you have a K?
+Joe says- Yes, I have a K
+Jane books the K
+
+Jane says- Joe do you have a J?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 5?
+Jane says- Go Fish
+
+Jane says- Joe do you have a A?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 5?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 6?
+Joe says- Go Fish
+Jane books the A
+
+Joe says- Jane do you have a J?
+Jane says- Yes, I have a J
+Joe books the J
+
+Joe says- Jane do you have a 5?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 9?
+Joe says- Yes, I have a 9
+Jane books the 9
+
+Jane says- Joe do you have a 3?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 5?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 3?
+Joe says- Go Fish
+
+Joe says- Jane do you have a 6?
+Jane says- Yes, I have a 6
+Joe books the 6
+
+Joe says- Jane do you have a 5?
+Jane says- Yes, I have a 5
+Joe books the 5
+
+Joe says- Jane do you have a Q?
+Jane says- Yes, I have a Q
+Joe books the Q
+
+Joe says- Jane do you have a 4?
+Jane says- Go Fish
+
+Jane says- Joe do you have a 10?
+Joe says- Yes, I have a 10
+Jane books the 10
+
+Jane says- Joe do you have a 3?
+Joe says- Yes, I have a 3
+Jane books the 3
+
+Jane says- Joe do you have a K?
+Joe says- Yes, I have a K
+Jane books the K
+
+Jane has won the game!
